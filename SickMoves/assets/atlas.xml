@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:e2761b7fd1734acd55c1673bf8e5a5d5$ -->
+<TextureAtlas imagePath="atlas.png">
+    <SubTexture name="alien1" x="2" y="2" width="100" height="150"/>
+    <SubTexture name="alien2" x="104" y="2" width="100" height="150"/>
+    <SubTexture name="b1" x="206" y="2" width="100" height="100"/>
+    <SubTexture name="b1Off" x="308" y="2" width="100" height="100"/>
+    <SubTexture name="b2" x="410" y="2" width="100" height="100"/>
+    <SubTexture name="b2Off" x="512" y="2" width="100" height="100"/>
+    <SubTexture name="b3" x="614" y="2" width="100" height="100"/>
+    <SubTexture name="b3Off" x="716" y="2" width="100" height="100"/>
+    <SubTexture name="b4" x="818" y="2" width="100" height="100"/>
+    <SubTexture name="b4Off" x="920" y="2" width="100" height="100"/>
+    <SubTexture name="da1" x="2" y="154" width="100" height="150"/>
+    <SubTexture name="da2" x="104" y="154" width="100" height="150"/>
+    <SubTexture name="db1" x="206" y="154" width="100" height="150"/>
+    <SubTexture name="db2" x="308" y="154" width="100" height="150"/>
+    <SubTexture name="dc1" x="410" y="154" width="100" height="150"/>
+    <SubTexture name="dc2" x="512" y="154" width="100" height="150"/>
+    <SubTexture name="dd1" x="614" y="154" width="100" height="150"/>
+    <SubTexture name="dd2" x="716" y="154" width="100" height="150"/>
+    <SubTexture name="ghost1" x="818" y="154" width="100" height="150"/>
+    <SubTexture name="ghost2" x="920" y="154" width="100" height="150"/>
+    <SubTexture name="hr" x="2" y="306" width="100" height="150"/>
+    <SubTexture name="menu" x="104" y="306" width="250" height="100"/>
+    <SubTexture name="miss1" x="356" y="306" width="100" height="150"/>
+    <SubTexture name="miss2" x="458" y="306" width="100" height="150"/>
+    <SubTexture name="mute1" x="560" y="306" width="100" height="100"/>
+    <SubTexture name="mute2" x="662" y="306" width="100" height="100"/>
+    <SubTexture name="play" x="764" y="306" width="250" height="100"/>
+    <SubTexture name="rb1" x="2" y="458" width="100" height="150"/>
+    <SubTexture name="rb2" x="104" y="458" width="100" height="150"/>
+    <SubTexture name="robotHit" x="206" y="458" width="32" height="32"/>
+    <SubTexture name="texture" x="240" y="458" width="64" height="64"/>
+    <SubTexture name="vp1" x="306" y="458" width="100" height="150"/>
+    <SubTexture name="vp2" x="408" y="458" width="100" height="150"/>
+    <SubTexture name="ww1" x="510" y="458" width="100" height="150"/>
+    <SubTexture name="ww2" x="612" y="458" width="100" height="150"/>
+</TextureAtlas>

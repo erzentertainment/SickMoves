@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:bd8aeae8379afc48b5e1e2dbde41b5d3$ -->
+<TextureAtlas imagePath="TitleScreen.png">
+    <SubTexture name="TitleScreen1" x="2" y="2" width="800" height="480"/>
+    <SubTexture name="TitleScreen2" x="2" y="484" width="800" height="480"/>
+</TextureAtlas>
